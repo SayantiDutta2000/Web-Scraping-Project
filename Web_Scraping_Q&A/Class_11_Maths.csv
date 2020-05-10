@@ -1,0 +1,338 @@
+Question,Option_A,Option_B,Option_C,Option_D
+The number of real values of a satisfying the equation a^2-2asin x+1 = 0 is,Zero,One,Two,Infinite
+For positive integers n_1|n_2the value of the expression  (1+i)^n_1+(1+i^3)^n_1+(1+i^5)^n_2+(1+i^7)^n_2where i = sqrt-1  is a real number if and only if IIT 1996,n_1 = n_2+1,n_1 = n_2-1,n_1 = n_2,n_1>0|n_2>0
+Given that the equation z^2+(p+iq)z+r+i|s = 0| where p|q|r|s are real and non-zero has a real root| then,pqr = r^2+p^2s,prs = q^2+r^2p,qrs = p^2+s^2q,pqs = s^2+q^2r
+If x = -5+2sqrt-4| then the value of the expression  x^4+9x^3+35x^2-x+4 is IIT 1972,160,-160,60,-60
+If sqrt3+i = (a+ib)(c+id)| then tan ^-1left( b/a right)+ tan ^-1left( d/c right) has the value,pi /3+2npi |nin I,npi +pi /6|nin I,npi -pi /3|nin I,2npi -pi /3|nin I
+If a = cos alpha +i|sin alpha |||b = cos beta +i|sin beta |c = cos gamma +i|sin gamma ||textand||b/c+c/a+a/b = 1| then cos (beta -gamma )+cos (gamma -alpha )+cos (alpha -beta ) is equal to RPET 2001,3/2,- 3/2,0,1
+If (1+i)(1+2i)(1+3i).....(1+ni) = a+ib| then        2.5.10....(1+n^2)  is equal to  Karnataka CET 2002; Kerala (Engg.) 2002,a^2-b^2,a^2+b^2,sqrta^2+b^2,sqrta^2-b^2
+If z is a complex number| then the minimum value of |z|+|z-1| is Roorkee 1992,1,0,1/2,None of these
+For any two complex numbers z_1andz_2 and any real numbers a and b; |(az_1-bz_2)|^2+|(bz_1+az_2)|^2 =  IIT 1988,(a^2+b^2)(|z_1|+|z_2|),(a^2+b^2)(|z_1/|^2+|z_2/|^2),(a^2+b^2)(|z_1/|^2-|z_2/|^2),None of these
+The locus of zsatisfying the inequality log _1/3|z+1||> log _1/3|z-1| is,R|(z)<0,R|(z)>0,I|(z)<0,None of these
+If z_1 = a+ib and z_2 = c+id are complex numbers such that  |z_1|| = ||z_2| = 1 and R(z_1overlinez_2) = 0| then the pair of complex numbers w_1 = a+ic and w_2 = b+id satisfies IIT 1985,|w_1| = 1,|w_2| = 1,R(w_1overlinew_2) = 0|,All the above
+Letzand w be two complex numbers such that |z||le 1| |w||le 1and|z+iw|| = ||z-ioverlinew| = 2. Then z is equal to IIT 1995,1 or i,i or -i,1 or - 1,ior -1
+The maximum distance from the origin of coordinates to the point z satisfying the equation left| z+1/z right| = ais,1/2(sqrta^2+1+a),1/2(sqrta^2+2+a),1/2(sqrta^2+4+a),None of these
+Find the complex number z satisfying the equations left| z-12/z-8i right| = 5/3|left| z-4/z-8 right| = 1 Roorkee 1993,6,6pm 8i,6+8i||6+17i,None of these
+If z_1|z_2|z_3 are complex numbers such that |z_1|| = ||z_2|| =  ||z_3|| =  left| 1/z_1+1/z_2+1/z_3 right| = 1|| thentext |z_1+z_2+z_3| is MP PET 2004; IIT Screening 2000,Equal to 1,Less than 1,Greater than 3,Equal to 3
+If z_1 = 10+6i|z_2 = 4+6i and z is a complex number such that ampleft( z-z_1/z-z_2 right) = pi /4| then the value of |z-7-9i| is equal to IIT 1990,sqrt2,2sqrt2,3sqrt2,2sqrt3
+If z_1|z_2|z_3be three non-zero complex number| such that z_2ne z_1|a = |z_1||b = |z_2| and c = |z_3| suppose that left| beginmatrix    a & b & c      b & c & a      c & a & b   endmatrix right| = 0| then  argleft( z_3/z_2 right) is equal to,argleft( z_2-z_1/z_3-z_1 right)^2,argleft( z_2-z_1/z_3-z_1 right),argleft( z_3-z_1/z_2-z_1 right)^2,argleft( z_3-z_1/z_2-z_1 right)
+Let z and w be the two non-zero complex numbers such that |z|| = ||w| and arg|z+arg|w = pi . Then z is equal to IIT 1995; AIEEE 2002,w,-w,overlinew,-overlinew
+If  |z-25i|le 15|  then |max .amp(z)-min .amp(z)| =,cos ^-1left( 3/5 right),pi -2cos ^-1left( 3/5 right),pi /2+cos ^-1left( 3/5 right),sin ^-1left( 3/5 right)-cos ^-1left( 3/5 right)
+If z_1|z_2 and z_3|z_4 are two pairs of conjugate complex numbers| then argleft( z_1/z_4 right)+argleft( z_2/z_3 right) equals,0,pi /2,3pi /2,pi
+Let z|wbe complex numbers such that overlinez+ioverlinew = 0and arg||zw = pi . Then arg z equals AIEEE 2004,5pi /4,pi /2,3pi /4,pi /4
+If (1+x)^n = C_0+C_1x+C_2/x^2+.....+C_n/x^n| then the value of C_0-C_2+C_4-C_6+.....is,2^n,2^ncos npi /2,2^nsin npi /2,2^n/2cos npi /4
+If x = cos theta +isin theta  and y = cos varphi +isin varphi |  then x^m/y^n+x^-m/y^-n is equal to,cos (mtheta +nvarphi ),cos (mtheta +nvarphi ),2cos (mtheta +nvarphi ),2cos (mtheta -nvarphi )
+The value of sumlimits_r = 1^8/left( sin 2rpi /9+icos 2rpi /9 right)is,-1,1,i,-i
+If a|b|c andu|v|w are complex numbers representing the vertices of two triangles such that c = (1-r)a+rb and w = (1-r)u+rv| where r is a complex number| then the two triangles,Have the same area,Are similar,Are congruent,None of these
+Suppose  z_1||z_2||z_3 are the vertices of an equilateral triangle inscribed in the circle |z|| = 2. If  z_1 = 1+isqrt3| then values of  z_3 and z_2 are respectively IIT 1994,-2||1-isqrt3,2||1+isqrt3,1+isqrt3|-2,None of these
+If the complex number z_1|z_2 the origin form an equilateral triangle then  z_1^2+z_2^2 =  IIT 1983,z_1|z_2,z_1|overlinez_2,overlinez_2|z_1,|z_1/|^2 = |z_2/|^2
+If at least one value of the complex number z = x+iy satisfy the condition |z+sqrt2| = a^2-3a+2 and the inequality |z+isqrt2|<a^2|  then,a>2,a = 2,a<2,None of these
+If z| iz and z+iz are the vertices of a triangle whose area is 2 units| then the value of |z| is RPET 2000,-2,2,4,8
+If z^2+z|z|+|z|^2 = 0| then the locus of z is,A circle,A straight line,A pair of straight lines,None of these
+If cos alpha +cos beta +cos gamma  = sin alpha +sin beta +sin gamma  = 0 then cos 3alpha +cos 3beta +cos 3gamma  equals to  Karnataka CET 2000,0,cos (alpha +beta +gamma ),3cos (alpha +beta +gamma ),3sin (alpha +beta +gamma )
+If z_r = cos ralpha /n^2+isin ralpha /n^2| where r  =  1| 2| 3|?.|n| then undersetnto infty /mathoplim |||z_1/z_2/z_3...z_n is equal to UPSEAT 2001,cos alpha +i|sin alpha,cos (alpha /2)-isin (alpha /2),e^ialpha /2,sqrt3e^ialpha
+If the cube roots of unity be 1|omega |omega ^2| then the roots of the equation (x-1)^3+8 = 0are IIT 1979; MNR 1986; DCE 2000; AIEEE 2005,-1||1+2omega ||1+2omega ^2,-1||1-2omega ||1-2omega ^2,-1||-1||-1,None of these
+If 1|omega |omega ^2|omega ^3.......|omega ^n-1 are the n|n^th roots of unity| then (1-omega )(1-omega ^2).....(1-omega ^n-1) equals MNR 1992; IIT 1984; DCE 2001; MP PET 2004,0,1,n,n^2
+The value of the expression 1.(2-omega )(2-omega ^2)+2.(3-omega )(3-omega ^2)+...........+(n-1).(n-omega )(n-omega ^2)|where omega  is an imaginary cube root of unity| is IIT 1996,1/2(n-1)n(n^2+3n+4),1/4(n-1)n(n^2+3n+4),1/2(n+1)n(n^2+3n+4),1/4(n+1)n(n^2+3n+4)
+If i = sqrt-1| then 4+5left( -1/2+isqrt3/2 right)^334   +3left( -1/2+isqrt3/2 right)^365is equal to IIT 1999,1-isqrt3,-1+isqrt3,isqrt3,-isqrt3
+If a = cos (2pi /7)+i|sin (2pi /7)| then the quadratic equation whose roots are alpha  = a+a^2+a^4 and beta  = a^3+a^5+a^6 is RPET 2000,x^2-x+2 = 0,x^2+x-2 = 0,x^2-x-2 = 0,x^2+x+2 = 0
+Let z_1 and z_2 be nth roots of unity which are ends of a line segment that subtend a right angle at the origin.  Then n must be of the form  IIT Screening 2001; Karnataka 2002,4k + 1,4k + 2,4k + 3,4k
+Let omega  is an imaginary cube roots of unity then the value of2(omega +1)(omega ^2+1)+3(2omega +1)(2omega ^2+1)+.....+(n+1)(nomega +1)(nomega ^2+1)  is Orissa JEE 2002,left n(n+1)/2 right^2+n,left n(n+1)/2 right^2,left n(n+1)/2 right^2-n,None of these
+omega  is an imaginary cube root of unity. If (1+omega ^2)^m =  (1+omega ^4)^m| then least positive integral value of m is  IIT Screening 2004,6,5,4,3
+The value of 2^n|1.3.5.....(2n-3)|(2n-1) is,(2n)|!/n|!,(2n)|!/2^n,2^n-i,None of these
+A question paper is divided into two parts A and B and each part contains 5 questions. The number of ways in which a candidate can answer 6 questions selecting at least two questions from each part is Roorkee 1980,80,100,200,None of these
+How many numbers lying between 10 and 1000 can be formed from the digits 1| 2| 3| 4| 5| 6| 7| 8| 9 (repetition is allowed),1024,810,2346,None of these
+The number of ways in which the letters of the word TRIANGLE can be arranged such that two vowels do not occur together is,1200,2400,14400,None of these
+There are four balls of different colours and four boxes of colours same as those of the balls. The number of ways in which the balls| one in each box| could be placed such that a ball does not go to box of its own colour is IIT 1992,8,7,9,None of these
+If  ^56/P_r+6/:^54/P_r+3 = 30800:1| then r =  Roorkee 1983; Kurukshetra CEE 1998,31,41,51,None of these
+Ten different letters of an alphabet are given. Words with five letters are formed from these given letters. Then the number of words which have at least one letter repeated is                 IIT 1980; MNR 1998| 99; DCE 2001,69760,30240,99748,None of these
+The number of ways of dividing 52 cards amongst four players so that three players have 17 cards each and the fourth player just one card| is IIT 1979,52 !/(17 !)^3,52 !,52 !/17 !,None of these
+The number of ways in which the letters of the word ARRANGE can be arranged such that both R do not come together is MP PET 1993,360,900,1260,1620
+A box contains two white balls| three black balls and four red balls. In how many ways can three balls be drawn from the box if at least one black ball is to be included in the  draw IIT 1986; DCE 1994,64,45,46,None of these
+m men and n women are to be seated in a row so that no two women sit together. If m>n| then the number of ways in which they can be seated is IIT 1983,m ! (m+1) !/(m-n+1) !,m ! (m-1) !/(m-n+1) !,(m-1) ! (m+1) !/(m-n+1) !,None of these
+A five digit number divisible by 3 has to formed using the numerals 0| 1| 2| 3| 4 and 5 without repetition. The total  number of ways in which this can be done is IIT 1989; AIEEE 2002,216,240,600,3125
+In a certain test there are n questions. In the test 2^n-i students gave wrong answers to at least i questions| where i = 1| 2| ......n. If the total number of wrong answers given is 2047| then n is equal to,10,11,12,13
+The number of times the digit 3 will be written when listing the integers from 1 to 1000 is,269,300,271,302
+Ten persons| amongst whom are A| B and C to speak at a function. The number of ways in which it can be done if A wants to speak before B and B wants to speak before C is,10 !/6,3 ! 7 !,^10/P_3 . 7 !,None of these
+The number of ways in which an examiner can assign 30 marks to 8 questions| awarding not less than 2 marks to any question is,^21/C_7,^30/C_16,^21/C_16,None of these
+How many words can be made out from the letters of the word INDEPENDENCE| in which vowels always come together Roorkee 1989,16800,16630,1663200,None of these
+Five balls of different colours are to be placed in three boxes of different sizes. Each box can hold all five balls. In how many ways can we place the balls so that no box remains empty IIT 1981,50,100,150,200
+In how many ways can a committee be formed of 5 members from 6 men and 4 women if the committee has at least one woman RPET 1987; IIT 1968; Pb. CET 2003,186,246,252,None of these
+How many words can be made from the letters of the word BHARAT in which B and H never come together IIT 1977,360,300,240,120
+There are 10 persons named A| B|.......J. We have the capacity to accommodate only 5. In how many ways can we arrange them in a line if A is must and G and H must not be included in the team of 5,^8/P_5,^7/P_5,^7/C_3(4 !),^7/C_3(5 !)
+The number of times the digit 5 will be written when listing the integers from 1 to 1000 is,271,272,300,None of these
+The exponent of 3 in 100 ! is,33,44,48,52
+The total number of different combinations of one or more letters which can be made from the letters of the word 'MISSISSIPPI' is,150,148,149,None of these
+A person goes in for an examination in which there are four papers with a maximum of m marks from each paper. The number of ways in which one can get 2m marks is,^2m+3/C_3,1/3(m+1)(2m^2+4m+1),1/3(m+1)(2m^2+4m+3),None of these
+There were two women participating in a chess tournament. Every participant played two games with the other participants. The number of games that the men played between themselves proved to exceed by 66 the number of games that the men played with the women. The number of participants is,6,11,13,None of these
+A father with 8 children takes them 3 at a time  to the Zoological gardens| as often as he can without taking the same 3 children together more than once. The number of times each child will go to the garden is,56,21,112,None of these
+A library has a copies of one book| b copies of each of two books| c copies of each of three books and single copies of d books. The total number of ways in which these books can be distributed is,(a+b+c+d) !/a ! b ! c !,(a+2b+3c+d) !/a ! (b !)^2/(c !)^3,(a+2b+3c+d) !/a ! b ! c !,None of these
+A car will hold 2 in the front seat and 1 in the rear seat. If among 6 persons 2 can drive| then the number of ways in which the car can be filled is,10,20,30,None of these
+There are (n+1) white and (n+1) black balls each set numbered 1 to n+1. The number of ways in which the balls can be arranged in a row so that the adjacent balls are of different colours is EAMCET 1991,(2n+2) !,(2n+2) ! times 2,(n+1) ! times 2,2(n+1) !^2
+12 persons are to be arranged to a round table. If two particular persons among them are not to be side by side| the total number of arrangements is EAMCET 1994,9(10 !),2(10 !),45(8 !),10 !
+How many numbers between 5000 and 10|000 can be formed using the digits 1| 2| 3| 4| 5| 6| 7| 8| 9 each digit appearing not more than once in each number Karnataka CET 1993,5times ^8/P_3,5times ^8/C_3,5 ! times ^8/P_3,5 ! times ^8/C_3
+If x| y and r are positive integers| then ^x/C_r/ + ^x/C_r-1^y/C_1/ + ^x/C_r-2^y/C_2+....... + ^y/C_r =  Karnataka CET 1993; RPET 2001,x ! y !/r !,(x+y) !/r !,^x+y/C_r,^xy/C_r
+The number of ways in which an arrangement of 4 letters of the word 'PROPORTION' can be made is,700,750,758,800
+The number of different words that can be formed out of the letters of the word 'MORADABAD' taken four at a time is,500,600,620,626
+There are three girls in a class of 10 students. The number of different ways in which they can be seated in a row such that no two of the three girls are together is,7 ! times ^6/P_3,7 ! times ^8/P_3,7 ! times 3 !,10 !/3 ! 7 !
+For 2le rle n|left( beginmatrix    n      r   endmatrix right)+2|left( beginalign   & ||n   & r-1  endalign right)+left( beginmatrix    n      r-2   endmatrix right) is equal to    IIT Screening 2000; Pb. CET 2000,left( beginmatrix n+1 r-1 endmatrix right),2|left( beginmatrix n+1 r+1 endmatrix right),2|left( beginmatrix n+2 r endmatrix right),left( beginmatrix n+2 r endmatrix right)
+The number of positive integral solutions of a|b|c = 30is UPSEAT 2001,30,27,8,None of these
+How many different nine-digit numbers can be formed from the digits of the number 223355888 by rearrangement of the digits so that the odd digits occupy even places  IIT Screening 2000; Karnataka CET 2002,16,36,60,180
+A dictionary is printed consisting of 7 lettered words only that can be made with a letter of the word CRICKET. If the words are printed at the alphabetical order| as in an ordinary dictionary| then the number of word before the word CRICKET is Orissa JEE 2003,530,480,531,481
+The mean of n items is barx. If the first term is increased by 1| second by 2 and so on| then new mean is            DCE 1998,barx+n,barx+n/2,barx+n+1/2,None of these
+The mean of the values 0| 1| 2|......|n having corresponding weight ^n/C_0||^n/C_1||^n/C_2|........|||^n/C_n respectively is          AMU 1990; CET 1998,2^n/n+1,2^n+1/n(n+1),n+1/2,n/2
+Mean of 100 observations is 45. It was later found that two observations 19 and 31 were incorrectly recorded as 91 and 13. The correct mean is,44,44.46,45,45.54
+The average of n numbers x_1||x_2||x_3||......||x_n is M. If x_n is replaced by x'| then new average is                 DCE 2000,M-x_n+x',nM-x_n+x'/n,(n-1)M+x'/n,M-x_n+x'/n
+The following data gives the distribution of height of students,154,155,160,161
+A pie chart is to be drawn for representing the following data,90?,2.8?,150?,144?
+The mean and S.D. of the marks of 200 candidates were found to be 40 and 15 respectively. Later| it was discovered that a score of 40 was wrongly read as 50. The correct mean and S.D. respectively are,14.98| 39.95,39.95| 14.98,39.95| 224.5,None of these
+Let r be the range and S^2 = 1/n-1sumlimits_i = 1^n/(x_i-barx)^2 be the S.D. of a set of observations x_1||x_2||.....x_n| then,Sle rsqrtn/n-1,S = rsqrtn/n-1,Sge rsqrtn/n-1,None of these
+In a series of 2n observations| half of them equal to a and remaining half equal to ?a. If the standard deviation of the observations is 2| then |a| equals                     AIEEE 2004,sqrt2/n,sqrt2,2,1/n
+The S.D. of a variate x is s. The S.D. of the variate ax+b/c where a| b| c are constant| is                                Pb. CET 1996,left( a/c right)|sigma,left| a/c right||sigma,left( a^2/c^2 right)|sigma,None of these
+The circular wire of diameter 10cm is cut and placed along the circumference of a circle of diameter 1 metre. The angle subtended by the wire at the centre of the circle is equal to MNR 1974,pi /4radian,pi /3radian,pi /5radian,pi /10radian
+The value of sin ^2/5^o+sin ^2/10^o+sin ^2/15^o+...+ sin ^2/85^o+sin ^2/90^o is  equal to Karnataka CET 1999,7,8,9,91/2
+If 3pi /4<alpha <pi |then sqrttextcose/textc^2alpha +2cot alpha  is equal to  Pb. CET 2000; AMU 2001; MP PET 2004,1+cot alpha,1-cot alpha,-1-cot alpha,-1+cot alpha
+If a|cos ^3alpha +3a|cos alpha |sin ^2alpha  = m anda|sin ^3alpha +3a|cos ^2alpha sin alpha  = n| then (m+n)^2/3+(m-n)^2/3 is equal to,2a^2,2a^1/3,2a^2/3,2a^3
+Ifcos |(theta -alpha ) = a|||sin |(theta -beta ) = b|||then cos ^2(alpha -beta )+2ab|sin |(alpha -beta ) is equal to,4a^2/b^2,a^2-b^2,a^2+b^2,-a^2/b^2
+If sin A = nsin B| then n-1/n+1tan |A+B/2 =,sin A-B/2,tan A-B/2,cot A-B/2,None of these
+If x+1/x = 2|cos theta | then x^3+1/x^3 =  MP PET 2004,cos ||3theta,2|cos |3theta,1/2cos |3theta,1/3cos |3theta
+If sin x+textcosec|x = 2| then 4sin A||sin B||sin C is equal to UPSEAT 2002,2,2^n,2^n-1,2^n-2
+If tan theta  = sin alpha -cos alpha /sin alpha +cos alpha |then sin alpha +cos alpha  and sin alpha -cos alpha  must be equal to WB JEE 1971,sqrt2cos theta |||sqrt2sin theta,sqrt2sin theta |||sqrt2cos theta,sqrt2sin theta |||sqrt2sin theta,sqrt2|cos theta |||sqrt2|cos theta
+If cos ^6alpha +sin ^6alpha +K|sin ^22alpha  = 1| then K  =,4/3,3/4,1/2,2
+sin 20^o|sin 40^o|sin 60^o|sin 80^o =  MNR 1976| 81,-3/16,5/16,3/16,-5/16
+The value ofsin pi /14sin 3pi /14sin 5pi /14sin 7pi /14sin 9pi /14sin 11pi /14sin 13pi /14 is equal to IIT 1991; MNR 1992,1/8,1/16,1/32,1/64
+tan alpha +2tan 2alpha +4tan 4alpha +8cot |8alpha  =  IIT 1988; MP PET 1991,tan alpha,tan 2alpha,cot |alpha,cot |2alpha
+sqrt3|textcosec|20^o-sec |20^o =  IIT 1988,2,2|sin 20^o/sin 40^o,4,4|sin 20^o/sin 40^o
+1+cos |56^o+cos |58^o-cos 66^o =  IIT 1964,2|cos 28^o|cos |29^o|cos |33^o,4|cos 28^o|cos |29^o|cos |33^o,4|cos 28^o|cos |29^o|sin 33^o,2|cos 28^o|cos |29^o|sin |33^o
+If x = sin 130^o|cos 80^o|||y = sin |80^o|cos |130^o|||z = 1+xy|which one of the following is true AMU 1999,x>0|||y>0|||z>0,x>0|||y<0|||0<z<1,x>0|||y<0|||z>1,x<0|||y<0||0<z<1
+If alpha ||beta ||gamma in |left( 0||pi /2 right)| then sin |(alpha +beta +gamma )/sin alpha +sin beta +sin gamma  is,< 1,>1,1,None of these
+If a|cos 2theta +b|sin 2theta  = chas a and b as its solution| then the value of tan alpha +tan beta  is Kurukshetra CEE 1998,c+a/2b,2b/c+a,c-a/2b,b/c+a
+If tan x = 2b/a-c(ane c)|y = a|cos ^2x+2b|sin xcos x+c|sin ^2xand z = asin ^2x-2bsin xcos x+ccos ^2x| then,y = z,y+z = a+c,y-z = a+c,y-z = (a-c)^2+4b^2
+If textcosectheta  = p+q/p-q| then cot |left( pi /4+theta /2 right) =  EAMCET 2001,sqrtp/q,sqrtq/p,sqrtpq,pq
+If asin ^2x+bcos ^2x = c|||b|sin ^2y+a|cos ^2y = d and  a|tan x = b|tan y|then a^2/b^2 is equal to,(b-c)||(d-b)/(a-d)||(c-a),(a-d)||(c-a)/(b-c)||(d-b),(d-a)||(c-a)/(b-c)||(d-b),(b-c)||(b-d)/(a-c)||(a-d)
+left( cos A+cos B/sin A-sin B right)^n+left( sin A+sin B/cos A-cos B right)^n(n even or odd)  =,2tan ^nA-B/2,2cot ^nA-B/2,0,None of these
+If sin alpha  = 1/sqrt5and sin beta  = 3/5|then beta -alpha lies in the interval Roorkee Qualifying 1998,0||pi /4,pi /2||3pi /4,3pi /4||pi,pi ||5pi /4
+If 2sec 2alpha  = tan beta +cot beta |then one of the values of alpha +beta is Karnataka CET 2000,pi /4,pi /2,pi,2pi
+If x/cos theta  = y/cos left( theta -2pi /3 right) = z/cos left( theta +2pi /3 right)|then x+y+z =,1,0,-1,None of these
+If sin 6theta  = 32cos ^5theta sin theta -32cos ^3theta sin theta +3x| then x =  EAMCET 2003,cos theta,cos 2theta,sin theta,sin 2theta
+sin ^4pi /4+sin ^43pi /8+sin ^45pi /8+sin ^47pi /8 =  Roorkee 1980,1/2,1/4,3/2,3/4
+left( 1+cos pi /8 right)|left( 1+cos 3pi /8 right)|left( 1+cos 5pi /8 right)|left( 1+cos 7pi /8 right) =   IIT 1984; WB JEE 1992,1/2,1/4,1/8,1/16
+If A lies in the third quadrant and 3|tan A-4 = 0| then 5|sin 2A+3|sin A+4|cos A =  EAMCET 1994,0,-24/5,24/5,48/5
+sqrt2+sqrt3+sqrt4+sqrt6 is equal to IIT 1966| 1975,cot 71^o/2,sin 71^o/2,sin |15^o,cos ||15^o
+If tan |(A+B) = p|||tan |(A-B) = q| then the value of tan |2A in terms of p and q is MP PET 1995| 2002,p+q/p-q,p-q/1+pq,p+q/1-pq,1+pq/1-p
+2|sin ^2beta +4||cos |(alpha +beta )||sin |alpha |sin |beta +cos |2|(alpha +beta ) =  MNR 1993; IIT 1977,sin ||2alpha,cos ||2beta,cos ||2alpha,sin ||2beta
+The value of sin theta +cos theta  will be greatest when MNR 1977| 1983; RPET 1995,theta = 30^o,theta = 45^o,theta = 60^o,theta = 90^o
+If f(x) = cos ^2x+sec ^2x| then  MNR 1986,f(x)<1,f(x) = 1,1<f(x)<2,f(x)ge 2
+The value of tan x/tan |3xwhenever defined never lie between Kurukshetra CEE 1998; IIT 1992,1/3 and 3,1/4 and 4,1/5 and 5,5 and 6
+cos ||2theta +2||cos theta  is always,Greater than -3/2,Less than or equal to 3/2,Greater than or equal to -3/2 and less than or equal to 3,None of these
+Let A| B and C are the angles of a plain triangle and tan A/2 = 1/3|||tan B/2 = 2/3. Then tan C/2 is equal to   Orissa JEE 2003,7/9,2/9,1/3,2/3
+If A+B+C = pi  and cos A = cos B|cos C| then tan B||tan C is equal to AMU 2001,1/2,2,1,-1/2
+If A+C = B| then tan A|tan B|tan C =  EAMCET 1986,tan A|tan B+tan |C,tan |B-tan |C-tan |A,tan A+tan C-tan B,-|(tan Atan B+tan C)
+If left| cos |theta |left sin theta +sqrtsin ^2theta +sin ^2alpha  right| right||le k| then the value of k is,sqrt1+cos ^2alpha,sqrt1+sin ^2alpha,sqrt2+sin ^2alpha,sqrt2+cos ^2alpha
+The equation of 2x^2+3y^2-8x-18y+35 = k represents IIT 1994,No locus if k>0,An ellipse| if k<0,A point if|k = 0,A hyperbola| if k>0
+The number of points of intersection of the two curvesy = 2sin x and y = 5x^2+2x+3 is    IIT 1994,0,1,2,infty
+If the chord joining the points (at_1^2| 2at_1) and (at_2^2| 2at_2) of the parabola y^2 = 4ax passes through the focus of the parabola| then MP PET 1993,t_1/t_2 = -1,t_1/t_2 = 1,t_1+t_2 = -1,t_1-t_2 = 1
+The locus of the midpoint of the line segment joining the focus to a moving point on the parabola y^2 = 4ax is another parabola with the directrix                                                                                   IIT Screening 2002,x = -a,x = -a/2,x = 0,x = a/2
+On the parabola y = x^2| the point least distance from the straight line y = 2x-4 is            AMU 2001,(1| 1),(1| 0),(1| ?1),(0| 0)
+The length of the latus-rectum of the parabola whose focus is left( u^2/2gsin 2alpha | -u^2/2gcos 2alpha  right) and directrix is y = u^2/2g| is,u^2/g/cos ^2alpha,u^2/gcos 2alpha,2u^2/g/cos ^22alpha,2u^2/g/cos ^2alpha
+The line x-1 = 0 is the directrix of the parabola y^2-kx+8 = 0. Then one of the values of k is  IIT Screening 2000,1/8,8,4,1/4
+The centre of the circle passing through the point (0| 1) and touching the curve y = x^2at (2| 4) is       IIT 1983,left( -16/5| 27/10 right),left( -16/7| 5/10 right),left( -16/5| 53/10 right),None of these
+Consider a circle with its centre lying on the focus of the parabola y^2 = 2px such that it touches the directrix of the parabola. Then| a point of intersection of the circle and the parabola is                           IIT 1995,left( p/2| p right),left( p/2| -p right),left( -p/2| p right),left( -p/2| -p right)
+Which one of the following curves cuts the parabola y^2 = 4ax at right angles      IIT 1994,x^2+y^2 = a^2,y = e^-x/2a,y = ax,x^2 = 4ay
+The angle of intersection of the curves y^2 = 2x/pi  and y = sin x| is                Roorkee 1998,cot ^-1(-1/pi ),cot ^-1pi,cot ^-1(-pi ),cot ^-1(1/pi )
+The equation of the common tangent to the curves y^2 = 8x and xy = -1 is        IIT Screening 2002,3y = 9x+2,y = 2x+1,2y = x+8,y = x+2
+The equation of the parabola whose focus is the point (0| 0) and the tangent at the vertex is x-y+1 = 0is  Orissa JEE 2002,x^2+y^2-2xy-4x+4y-4 = 0,x^2+y^2-2xy+4x-4y-4 = 0,x^2+y^2+2xy-4x+4y-4 = 0,x^2+y^2+2xy-4x-4y+4 = 0
+If ane 0 and the line 2bx+3cy+4d = 0 passes through the points of intersection of the parabolas y^2 = 4ax and x^2 = 4ay| then AIEEE 2004,d^2+(3b-2c)^2 = 0,d^2+(3b+2c)^2 = 0,d^2+(2b-3c)^2 = 0,d^2+(2b+3c)^2 = 0
+The locus of mid point of that chord of parabola which subtends right angle on the vertex will be   UPSEAT 1999,y^2-2ax+8a^2 = 0,y^2 = a(x-4a),y^2 = 4a(x-4a),y^2+3ax+4a^2 = 0
+The equation of a circle passing through the vertex and the extremities of the latus rectum of the parabola y^2 = 8x is MP PET 1998,x^2+y^2+10x = 0,x^2+y^2+10y = 0,x^2+y^2-10x = 0,x^2+y^2-5x = 0
+The centre of an ellipse is C and PN is any ordinate and A| A? are the end points of major axis| then the value of PN^2/AN . A'N is,b^2/a^2,a^2/b^2,a^2+b^2,1
+Let P be a variable point on the ellipse x^2/a^2+y^2/b^2 = 1 with foci F_1 and F_2. If A is the area of the triangle PF_1/F_2| then maximum value of A is IIT 1994; Kerala (Engg.) 2005,ab,abe,e/ab,ab/e
+A man running round a race-course notes that the sum of the distance of two flag-posts from him is always 10 metres and the distance between the flag-posts is 8 metres. The area of the path he encloses in square metres is  MNR 1991; UPSEAT 2000,15pi,12pi,18pi,8pi
+If the angle between the lines joining the end points of minor axis of an ellipse with its foci is x^2-y^2 = 25| then the eccentricity of the ellipse is IIT Screening 1997; Pb. CET 2001; DCE 2002,1/2,1/sqrt2,sqrt3/2,1/2sqrt2
+The eccentricity of an ellipse| with its centre at the origin| is 1/2. If one of the directrices is x = 4| then the equation of the ellipse is AIEEE 2004,4x^2+3y^2 = 1,3x^2+4y^2 = 12,4x^2+3y^2 = 12,3x^2+4y^2 = 1
+The line xcos alpha +ysin alpha  = p will be a tangent to the conic x^2/a^2+y^2/b^2 = 1| if        Roorkee 1978,p^2 = a^2/sin ^2alpha +b^2/cos ^2alpha,p^2 = a^2+b^2,p^2 = b^2/sin ^2alpha +a^2/cos ^2alpha,None of these
+The angle of intersection of ellipse x^2/a^2+y^2/b^2 = 1 and circle x^2+y^2 = ab| is,tan ^-1left( a-b/ab right),tan ^-1left( a+b/ab right),tan ^-1left( a+b/sqrtab right),tan ^-1left( a-b/sqrtab right)
+On the ellipse 4x^2+9y^2 = 1| the points at which the tangents are parallel to the line 8x = 9y are          IIT 1999,left( 2/5| 1/5 right),left( -2/5| 1/5 right),left( -2/5| -1/5 right),left( 2/5| -1/5 right)
+The area of the quadrilateral formed by the tangents at the end points of latus rectum to the ellipse x^2/9+y^2/5 = 1| is IIT Screening 2003,27/4 sq. unit,9 sq. unit,27/2 sq. unit,27 sq. unit
+Tangent is drawn to ellipse x^2/27+y^2 = 1 at (3sqrt3cos theta | sin theta ) where theta in (0| pi /2). Then the value of theta  such that sum of intercepts on axes made by this tangent is minimum| is         IIT Screening 2003,pi /3,pi /6,pi /8,pi /4
+The locus of the middle point of the intercept of the tangents drawn from an external point to the ellipse x^2+2y^2 = 2 between the co-ordinates axes| is                                                      IIT Screening 2004,1/x^2+1/2y^2 = 1,1/4x^2+1/2y^2 = 1,1/2x^2+1/4y^2 = 1,1/2x^2+1/y^2 = 1
+If the normal at any point P on the ellipse cuts the major and minor axes in G and g  respectively and C be the centre of the ellipse| then Kurukshetra CEE 1998,a^2/(CG)^2+b^2/(Cg)^2 = (a^2-b^2)^2,a^2/(CG)^2-b^2/(Cg)^2 = (a^2-b^2)^2,a^2/(CG)^2-b^2/(Cg)^2 = (a^2+b^2)^2,None of these
+The locus of the poles of normal chords of an ellipse is given by  UPSEAT 2001,a^6/x^2+b^6/y^2 = (a^2-b^2)^2,a^3/x^2+b^3/y^2 = (a^2-b^2)^2,a^6/x^2+b^6/y^2 = (a^2+b^2)^2,a^3/x^2+b^3/y^2 = (a^2+b^2)^2
+If theta  and varphi  are eccentric angles of the ends of a pair of conjugate diameters of the ellipse x^2/a^2+y^2/b^2 = 1| then theta -varphi  is equal to,pm pi /2,pm pi,0,None of thesew
+If PQ is a double ordinate of hyperbola x^2/a^2-y^2/b^2 = 1 such that OPQ is an equilateral triangle| O being the centre of the hyperbola. Then the eccentricity e of the hyperbola satisfies         EAMCET 1999,1<e<2/sqrt3,e = 2/sqrt3,e = sqrt3/2,e>2/sqrt3
+Equation 1/r = 1/8+3/8cos theta  represents              EAMCET 2002,A rectangular hyperbola,A hyperbola,An ellipse,A parabola
+If the two tangents drawn on hyperbola x^2/a^2-y^2/b^2 = 1 in such a way that the product of their gradients is c^2| then they intersects on the curve,y^2+b^2 = c^2(x^2-a^2),y^2+b^2 = c^2(x^2+a^2),ax^2+by^2 = c^2,None of these
+C the centre of the hyperbolax^2/a^2-y^2/b^2 = 1. The tangents at any point P on this hyperbola meets the straight lines bx-ay = 0and bx+ay = 0 in the points Q and R respectively. Then CQ . CR =,a^2+b^2,a^2-b^2,1/a^2+1/b^2,1/a^2-1/b^2
+If x = 9 is the chord of contact of the hyperbola x^2-y^2 = 9| then the equation of the corresponding pair of tangents is  IIT 1999,9x^2-8y^2+18x-9 = 0,9x^2-8y^2-18x+9 = 0,9x^2-8y^2-18x-9 = 0,9x^2-8y^2+18x+9 = 0
+Let P(asec theta | btan theta ) and Q(asec varphi | btan varphi )| where theta +varphi  = pi /2| be two points on the hyperbola x^2/a^2-y^2/b^2 = 1. If (h| k) is the point of intersection of the normals at P and Q| then k is equal to                                                                            IIT 1999;  MP PET 2002,a^2+b^2/a,-left( a^2+b^2/a right),a^2+b^2/b,-left( a^2+b^2/b right)
+The combined equation of the asymptotes of the hyperbola 2x^2+5xy+2y^2+4x+5y = 0                Karnataka CET 2002,2x^2+5xy+2y^2 = 0,2x^2+5xy+2y^2-4x+5y+2 = 0,2x^2+5xy+2y^2+4x+5y-2 = 0,2x^2+5xy+2y^2+4x+5y+2 = 0
+An ellipse has eccentricity 1/2 and one focus at the pointPleft( 1/2| 1 right). Its one directrix is the common tangent nearer to the point P| to the circle x^2+y^2 = 1 and the hyperbolax^2-y^2 = 1. The equation of the ellipse in the standard form| is       IIT 1996,(x-1/3)^2/1/9+(y-1)^2/1/12 = 1,(x-1/3)^2/1/9+(y+1)^2/1/12 = 1,(x-1/3)^2/1/9-(y-1)^2/1/12 = 1,(x-1/3)^2/1/9-(y+1)^2/1/12 = 1
+If a circle cuts a rectangular hyperbola xy = c^2 in A| B| C| D and the parameters of these four points be t_1| t_2| t_3 and t_4 respectively. Then Kurukshetra CEE 1998,t_1/t_2 = t_3/t_4,t_1/t_2/t_3/t_4 = 1,t_1 = t_2,t_3 = t_4
+The equation of common tangents to the parabola y^2 = 8x and hyperbola 3x^2-y^2 = 3| is,2xpm y+1 = 0,2xpm y-1 = 0,xpm 2y+1 = 0,xpm 2y-1 = 0
+The equation of the locus of foot of perpendiculars drawn from the origin to the line passing through a fixed point     (a| b)| is,x^2+y^2-ax-by = 0,x^2+y^2+ax+by = 0,x^2+y^2-2ax-2by = 0,None of these
+The orthocentre of the triangle formed by the lines xy = 0and x+y = 1is                                       IIT 1995,(0|0),left( 1/2|1/2 right),left( 1/3|1/3 right),left( 1/4|1/4 right)
+The product of perpendiculars drawn from the origin to the lines represented by the equationax^2+2hxy+by^2+2gx+2fy+c = 0| will be  Bihar CEE 1994,ab/sqrta^2-b^2+4h^2,bc/sqrta^2-b^2+4h^2,ca/sqrt(a^2+b^2)+4h^2,c/sqrt(a-b)^2+4h^2
+The equations to a pair of opposite sides of a parallelogram are x^2-5x+6 = 0and y^2-6y+5 = 0. The equations to its diagonals are                 IIT 1994; Pb. CET 2003,x+4y = 13and y = 4x-7,4x+y = 13and 4y = x-7,4x+y = 13and y = 4x-7,y-4x = 13and y+4x = 7
+Area of the triangle formed by the lines y^2-9xy+18x^2 = 0 and y = 9 is,27/4sq. units,27sq.units,27/2sq. units,None of these
+If the pair of straight lines given by Ax^2+2Hxy+By^2 = 0| (H^2>AB) forms an equilateral triangle with line ax+by+c = 0| then (A+3B)(3A+B) is EAMCET 2003,H^2,-H^2,2H^2,4H^2
+The area (in square units) of the quadrilateral formed by the two pairs of linesl^2/x^2-m^2/y^2-n(lx+my) = 0and  l^2/x^2-m^2/y^2+n(lx-my) = 0 is                EAMCET 2003,n^2/2|lm|,n^2/|lm|,n/2|lm|,n^2/4|lm|
+The locus of the point P(x|y) satisfying the relation sqrt(x-3)^2+(y-1)^2+sqrt(x+3)^2+(y-1)^2 = 6 is Orissa JEE 2002,Straight line,Pair of straight lines,Circle,Ellipse
+The square of distance between the point of intersection of the lines represented by the equation ax^2+2hxy+by^2+2gx+2fy+c = 0 and origin| is,c(a+b)-f^2-g^2/ab-h^2,c(a-b)+f^2+g^2/sqrtab-h^2,c(a+b)-f^2-g^2/ab+h^2,None of these
+The equation of the pair of straight lines| each of which makes an angle alpha with the line y = x| is            MP PET 1990,x^2+2xysec 2alpha +y^2 = 0,x^2+2xy|textcosec|2alpha +y^2 = 0,x^2-2xy|textcosec|2alpha +y^2 = 0,x^2-2xysec 2alpha +y^2 = 0
+If the bisectors of the lines x^2-2pxy-y^2 = 0 be x^2-2qxy-y^2 = 0| then              MP PET 1993; DCE 1999; RPET 2003; AIEEE 2003; Kerala (Engg.) 2005,pq+1 = 0,pq-1 = 0,p+q = 0,p-q = 0
+The angle between the pair of straight lines y^2/sin ^2theta -xysin ^2theta +x^2(cos ^2theta -1) = 1|is MNR 1985; UPSEAT 2000; Kerala (Engg.) 2005,pi /3,pi /4,2pi /3,None of these
+The pair of lines represented by 3ax^2+5xy+(a^2-2)y^2 = 0 are perpendicular to each other for   AIEEE 2002,Two values of a,forall a,For one value of a,For no value of a
+The figure formed by the lines x^2+4xy+y^2 = 0 and x-y = 4| is                                     Roorkee 1980,A right angled triangle,An isosceles triangle,An equilateral triangle,None of these
+The equation x^2-3xy+lambda y^2+3x-5y+2 = 0 when lambda is a real number| represents a pair of straight lines. If theta  is the angle between the lines| then textcose/textc^2theta  =  EAMCET 1992,3,9,10,100
+If one of the lines of the pair ax^2+2hxy+by^2 = 0 bisects the angle between positive directions of the axes| then a| b| h satisfy the relation                           Roorkee 1992,a+b = 2|h|,a+b = -2h,a-b = 2|h|,(a-b)^2 = 4h^2
+The lines joining the origin to the points of intersection of the line y = mx+cand the circle x^2+y^2 = a^2will be mutually perpendicular| if                                             Roorkee 1977,a^2(m^2+1) = c^2,a^2(m^2-1) = c^2,a^2(m^2+1) = c^2,a^2(m^2-1) = 2c^2
+The angle between the lines joining the points of intersection of line y = 3x+2 and the curve x^2+2xy+3y^2+4x+8y-11 = 0 to the origin| is,tan ^-1left( 3/2sqrt2 right),tan ^-1left( 2/2sqrt2 right),tan ^-1left( sqrt3 right),tan ^-1left( 2/2sqrt2 right)
+If the lines ax^2+2hxy+by^2 = 0 represents the adjacent sides of a parallelogram| then the equation of second diagonal if one is lx+my = 1| will be,(am+hl)x = (bl+hm)y,(am-hl)x = (bl-hm)y,(am-hl)x = (bl+hm)y,None of these
+If the pair of lines ax^2+2(a+b)xy+by^2 = 0 lie along diameters of a circle and divide the circle into four sectors such that the area of one of the sectors is thrice the area of another sector then                                              AIEEE 2005,3a^2+10ab+3b^2 = 0,3a^2+2ab+3b^2 = 0,3a^2-10ab+3b^2 = 0,3a^2-2ab+3b^2 = 0
+The equation of the pair of straight lines parallel to x-axis and touching the circle x^2+y^2-6x-4y-12 = 0 Kerala (Engg.) 2002,y^2-4y-21 = 0,y^2+4y-21 = 0,y^2-4y+21 = 0,y^2+4y+21 = 0
+Two of the lines represented by the equation ay^4+bxy^3+cx^2/y^2+dx^3y+ex^4 = 0 will be perpendicular| then Kurukshetra CEE 1998,(b+d)(ad+be)+(e-a)^2(a+c+e) = 0,(b+d)(ad+be)+(e+a)^2(a+c+e) = 0,(b-d)(ad-be)+(e-a)^2(a+c+e) = 0,(b-d)(ad-be)+(e+a)^2(a+c+e) = 0
+The lines represented by the equation ax^2+2hxy+by^2+2gx+2fy+c = 0 will be equidistant from the origin| if,f^2+g^2 = c(b-a),f^4+g^4 = c(bf^2+ag^2),f^4-g^4 = c(bf^2-ag^2),f^2+g^2 = af^2+bg^2
+The circumcentre of the triangle formed by the lines xy+2x+2y+4 = 0 and x+y+2 = 0              EAMCET 1994,(0| 0),(-2| - 2),(-1| -1),(-1| -2)
+The area bounded by the angle bisectors of the lines x^2-y^2+2y = 1 and the line x+y = 3| is IIT Screening 2004,2,3,4,6
+The number of integral values of m| for which the x-co-ordinate of the point of intersection of the lines 3x+4y = 9 and y = mx+1is also an integer is  IIT Screening 2001,2,0,4,1
+A ray of light coming from the point (1| 2) is reflected at a point A on the x-axis and then passes through the pointÂ Â Â Â Â Â  (5| 3). The coordinates of the point A are Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Orissa JEE 2003,left( 13/5| 0 right),left( 5/13| 0 right),(- 7| 0),None of these
+If the co-ordinates of the middle point of the portion of a line intercepted between coordinate axes (3|2)| then the equation of the line will be            RPET 1985; MP PET 1984,2x+3y = 12,3x+2y = 12,4x-3y = 6,5x-2y = 10
+A line through A(-5|- 4) meets the lines x+3y+2 = 0| 2x+y+4 = 0 and x-y-5 = 0 at B| C and D respectively. If left( 15/AB right)^2+left( 10/AC right)^2 = left( 6/AD right)^2| then the equation of the line is                                                    IIT 1993,2x+3y+22 = 0,5x-4y+7 = 0,3x-2y+3 = 0,None of these
+The equation of perpendicular bisectors of the sides AB and AC of a triangle ABC are x-y+5 = 0 and x+2y = 0 respectively. If the point A is (1| - 2)| then the equation of line BC is                                         IIT 1986,23x+14y-40 = 0,14x-23y+40 = 0,tan ^-1(2),14x+23y-40 = 0
+The medians AD and BE of a triangle with vertices A (0| b)| B (0| 0) and C (a| 0) are perpendicular to each other| if Karnataka CET 2000,a = sqrt2 b,a = -sqrt2 b,Both (a) and (b),None of these
+Let PS be the median of the triangle with vertices P(2| 2)| Q(6| - 1)and R(7| 3). The equation of the line passing through (1|? 1) and parallel to PS is  IIT Screening 2000,2x-9y-7 = 0,2x-9y-11 = 0,2x+9y-11 = 0,2x+9y+7 = 0
+The equation of straight line passing through (-a| 0) and making the triangle with axes of area ?T? is      RPET 1987,2Tx+a^2y+2aT = 0,2Tx-a^2y+2aT = 0,2Tx-a^2y-2aT = 0,None of these
+The equations of two equal sides of an isosceles triangle are 7x-y+3 = 0 and x+y-3 = 0 and the third side passes through the point (1| ? 10). The equation of the third side is                                                     IIT 1984,y = sqrt3x+9 but not x^2-9y^2 = 0,3x+y+7 = 0 but not 60^o,3x+y+7 = 0 or x-3y-31 = 0,Neither 3x+y+7 nor x-3y-31 = 0
+The graph of the function cos x cos (x+2)-cos ^2(x+1) is IIT 1997 Re-Exam,A straight line passing through (0|||-sin ^21)with slope 2,A straight line passing through (0| 0),A parabola with vertex 75^o,A straight line passing through the point left( pi /2|-sin ^21 right) and parallel to the x?axis
+If the equation of base of an equilateral triangle is 2x-y = 1 and the vertex is (?1| 2)| then the length of the side of the triangle is Kerala (Engg.) 2005,sqrt20/3,2/sqrt15,sqrt8/15,sqrt15/2
+If x_1|x_2|x_3|||textand |y_1|y_2|y_3 are both in G.P. with the same common ratio| then the points (x_1|y_1)| (x_2||y_2) and (x_3||y_3)AIEEE 2003,Lie on a straight line,Lie on an ellipse,Lie on a circle,Are vertices of a triangle
+A line 4x+y = 1passes through the point A(2| - 7) meets the line BC whose equation is 3x-4y+1 = 0 at the point B. The equation to the line AC so that AB  =  AC| is                                IIT 1971,52x+89y+519 = 0,beta,89x+52y+519 = 0,89x+52y-519 = 0
+In what direction a line be drawn through the point (1| 2) so that its points of intersection with the line x+y = 4 is at a distance sqrt6/3 from the given point                             IIT 1966; MNR 1987,30^o,45^o,60^o,75^o
+If straight lines ax+by+p = 0 and xcos alpha +ysin alpha -p = 0 include an angle pi /4 between them and meet the straight line xsin alpha -ycos alpha  = 0 in the same point| then the value of a^2+b^2is equal to,1,2,3,4
+The sides AB|BC|CD and DAof a quadrilateral are x+2y = 3||x = 1| x-3y = 4|| |5x+y+12 = 0 respectively.  The angle between diagonals ACand BDis  Roorkee 1993,45^o,60^o,90^o,30^o
+Given vertices A(1||1)|B(4||-2)and C(5||5)of a triangle| then the equation of the perpendicular dropped from C to the interior bisector of the angle A is                                              Roorkee 1994,y-5 = 0,x-5 = 0,y+5 = 0,x+5 = 0
+If the straight line through the point P(3||4)makes an angle pi /6with the x-axis and meets the line 12x+5y+10 = 0 at Q| then the length PQis,132/12sqrt3+5,132/12sqrt3-5,132/5sqrt3+12,132/5sqrt3-12
+The vertices of a triangle are (2| 1)| (5| 2) and    (4| 4). The lengths of the perpendicular from these vertices on the opposite sides are IIT 1962,7/sqrt5|7/sqrt13|7/sqrt6,7/sqrt6|7/sqrt8|7/sqrt10,7/sqrt5|7/sqrt8|7/sqrt15,7/sqrt5|7/sqrt13|7/sqrt10
+The equation of the line joining the point (3| 5)to the point of intersection of the lines 4x+y-1 = 0 and 7x-3y-35 = 0 is equidistant from the points (0| 0) and   (8| 34)                                                                 Roorkee 1984,TRUE,FALSE,Nothing can be said,None of these
+A variable line passes through a fixed point P. The algebraic sum of the perpendicular drawn from (2|0)| (0| 2) and        (1| 1) on the line is zero| then the coordinates of the P are IIT 1991; AMU 2005,(1| -1),(1| 1),(2| 1),(2| 2)
+Given the four lines with equations x+2y = 3| 3x+4y = 7|||2x+3y = 4|| and 4x+5y = 6| then these lines are IIT 1980; Pb. CET 2003,Concurrent,Perpendicular,The sides of a rectangle,None of these
+The line 3x+2y = 24meets y-axis at A and x-axis at B. The perpendicular bisector of ABmeets the line through (0|-1) parallel to x-axis at C. The area of the triangle ABC is,182sq.units,91sq.units,48sq.units,None of these
+A pair of straight lines drawn through the origin form with the line 2x+3y = 6an isosceles right angled triangle| then the lines and the area of the triangle thus formed is                                                    Roorkee 1993,x-5y = 05x+y = 0Delta = 36/13,3x-y = 0x+3y = 0Delta = 12/17,5x-y = 0x+5y = 0Delta = 13/5,None of these
+The area enclosed within the curve |x|+|y| = 1is   RPET 1990| 1997; IIT 1981; UPSEAT 2003,sqrt2,1,sqrt3,2
+The area of triangle formed by the lines x = 0|y = 0 and x/a+y/b = 1| is                                                 RPET 1984,ab,ab/2,2ab,ab/3
+A line L passes through the points (1| 1) and    (2| 0) and another line L' passes through left( 1/2|0 right) and perpendicular to L. Then the area of the triangle formed by the lines L|L' and y- axis| is                                      RPET 1991,15/8,25/4,25/8,25/16
+The image of the point (4| - 3) with respect to the line y  =  x is                                                            RPET 2002,(- 4| - 3),(3| 4),(- 4| 3),(- 3| 4)
+The locus of a point P which divides the line joining (1| 0) and (2cos theta |2sin theta )internally in the ratio 2 : 3 for all theta | is a  IIT 1986,Straight line,Circle,Pair of straight lines,Parabola
+Point of intersection of the diagonals of square is at origin and coordinate axis are drawn along the diagonals. If the side is of length a| then one which is not the vertex of square is,(asqrt2|0),left( 0|a/sqrt2 right),left( a/sqrt2|0 right),left( -a/sqrt2|0 right)
+ABC is an isosceles triangle. If the coordinates of the base are B (1|3) and C (- 2| 7)| the coordinates of vertex A can be Orrissa JEE 2002; Pb. CET 2002,(1| 6),left( -1/2||5 right),left( 5/6||6 right),None of these
+If A(at^2||2at)| B(a/t^2||-2a/t) and C(a||0)| then 2a is equal to      RPET 2000,A.M. of CA and CB,G.M. of CA and CB,H.M. of CA and CB,None of these
+If coordinates of the points A and B are (2| 4) and (4| 2) respectively and point M is such that A-M-B also AB  =  3 AM| then the coordinates of M are,left( 8/3||10/3 right),left( 10/3|14/4 right),left( 10/3|6/3 right),left( 13/4|10/4 right)
+The point of trisection of the line joining the points (0| 3) and (6| -3) are,(2||0)and(4||-1),(2||-1)and (4|1),(3|1)and(4|-1),(2|1)and(4|-1)
+The following points A (2a| 4a)| B(2a| 6a) and C (2a+sqrt3a||5a)| (a>0) are the vertices of,An acute angled triangle,A right angled triangle,An isosceles triangle,None of these
+If the coordinates of the vertices of a triangle be (1|a)| (2|b) and (c^2|3)| then the centroid of the triangle,Lies at the origin,Cannot lie on x-axis,Cannot lie on y-axis,None of these
+If the vertices of a triangle be (0|0)| (6|0) and (6|8)| then its incentre will be,(2| 1),(1|2),(4| 2),(2|4)
+If the middle points of the sides of a triangle be (-2| 3)|          (4| -3) and (4| 5)| then the centroid of the triangle is,(5/3| 2),(5/6| 1),(2| 5/3),(1| 5/6)
+If the vertices P| Q| R of a triangle PQR are rational points| which of the following points of the triangle PQR is (are) always rational point(s) IIT 1998,Centroid,Incentre,Circumcentre,Orthocentre (A rational point is a point both of whose coordinates are rational numbers)
+The centroid of a triangle is (2| 7) and two of its vertices are (4| 8) and (-2| 6). The third vertex is Kerala (Engg.)  2002,(0| 0),(4| 7),(7| 4),(7| 7)
+The points (1|text 1)| (0|sec ^2theta )||(textcose/textc^2theta |text 0) are collinear for  Roorkee 1963,theta = npi /2,theta ne npi /2,theta = npi,None of these
+The ends of a rod of length l move on two mutually perpendicular lines. The locus of the point on the rod which divides it in the ratio 1 : 2 is IIT 1987; RPET 1997,36x^2+9y^2 = 4l^2,36x^2+9y^2 = l^2,9x^2+36y^2 = 4l^2,None of these
+Two fixed points are A(a|0)andB(-a|0). Ifangle A-angle B = theta | then the locus of point C of triangle ABC will be      Roorkee 1982,x^2+y^2+2xytan theta = a^2,x^2-y^2+2xytan theta = a^2,x^2+y^2+2xycot theta = a^2,x^2-y^2+2xycot theta = a^2
+Let A(2|-3)and B(-2|1)be vertices of a triangle ABC. If the centroid of this triangle moves on the line 2x+3y = 1| then the locus of the vertex C is the line AIEEE 2004,3x-2y = 3,2x-3y = 7,3x+2y = 5,2x+3y = 9
+The general solution of sin x-3sin 2x+sin 3x =  cos x-3cos 2x+cos 3x is IIT 1989,npi +pi /8,npi /2+pi /8,(-1)^nnpi /2+pi /8,2npi +cos ^-13/2
+If 5cos ^2theta +7sin ^2theta -6 = 0| then the general value of theta is,2npi pm pi /4,npi pm pi /4,npi +(-1)^npi /4,None of these
+If cos theta +cos 7theta +cos 3theta +cos 5theta  = 0| then theta  Dhanbad Engg. 1972,npi /4,npi /2,npi /8,None of these
+If tan theta  = -1/sqrt3and sin theta  = 1/2| cos theta  = -sqrt3/2| then the principal value of theta  will be MP PET 1983| 84,pi /6,5pi /6,7pi /6,-pi /6
+The general solution of acos x+bsin x = c| where  a|||b|||c are constants,x = npi +cos ^-1left( c/sqrta^2+b^2 right),x = 2npi -tan ^-1left( b/a right),x = 2npi -tan ^-1left( b/a right)pm cos ^-1left( c/sqrta^2+b^2 right),x = 2npi +tan ^-1left( b/a right)pm cos ^-1left( c/sqrta^2+b^2 right)
+If sec 4theta -sec 2theta  = 2| then the general value of theta  is   IIT 1963,(2n+1)pi /4,(2n+1)pi /10,npi +pi /2or npi /5+pi /10,None of these
+If sin 2x+sin 4x = 2sin 3x|then x =  EAMCET 1989,npi /3,npi +pi /3,2npi pm pi /3,None of these
+If tan (cot x) = cot (tan x)|then sin 2x =  MP PET 1999; Pb. CET 2001,(2n+1)pi /4,4/(2n+1)pi,4pi (2n+1),None of these
+The solution set of (5+4cos theta )(2cos theta +1) = 0in the interval 0|||2pi  is  EAMCET 2003,left pi /3||2pi /3 right,left pi /3||pi right,left 2pi /3|4pi /3 right,left 2pi /3|5pi /3 right
+If 1+sin x+sin ^2x+.....to infty  = 4+2sqrt3||0<x<pi | then   DCE 2001,x = pi /6,x = pi /3,x = pi /3or pi /6,x = pi /3or 2pi /3
+If the solution for theta of cos ptheta +cos qtheta  = 0| p>0| q>0are in A.P.| then the numerically smallest common difference of A.P. is Kerala (Engg.) 2001,pi /p+q,2pi /p+q,pi /2(p+q),1/p+q
+The number of solution of the given equation asin x+bcos x = c |  where |c||>|sqrta^2+b^2|is DCE 1998,1,2,Infinite,None of these
+The number of pairs (x| y) satisfying the equations sin x+sin y = sin (x+y) and |x|+|y| = 1is,2,4,6,infty
+If a| b| care the sides of a triangle ABC| then which of the following inequalities is not true Kurukshetra CEE 1996,8abcle (a+b)(b+c)(c+a),3abcle a^3+b^3+c^3,6abcle bc(b+c)+ca(c+a)+ab(a+b),abcle (a+b-c)(b+c-a)(c+a-b)
+In Delta ABC| a(bcos C-ccos B) =  EAMCET 1981,a^2-b^2,b^2-c^2,c^2-a^2,a^2+b^2+c^2
+AB is a vertical tower. The point A is on the ground and C is the middle point of AB. The part CB subtend an angle alpha at a point P on the ground. If AP = n|AB|then the correct relation is  MNR 1989; IIT 1980,n = (n^2+1)tan alpha,n = (2n^2-1)tan alpha,n^2 = (2n^2+1)tan alpha,n = (2n^2+1)tan alpha
+In Delta ABC| 1/a/cos ^2A/2+1/b/cos ^2B/2+1/c/cos ^2C/2 =,s,s/abc,s^2/abc,s^3/abc
+Delta ABC| if cos A/2 = sqrtb+c/2c| then MP PET 1990,a^2+b^2 = c^2,b^2+c^2 = a^2,c^2+a^2 = b^2,b-c = c-a
+In a triangle ABC| tan A/2 = 5/6 and tan C/2 = 2/5| then  EAMCET 1994,a| b| care in A.P.,cos A| cos B| cos Care in A.P.,sin A| sin B| sin Care in A.P.,(a) and (c) both
+In a Delta ABC| if (sin A+sin B+sin C) (sin A+sin B-sin C)  =  3sin Asin B|  then the angle C is equal to AMU 1999,pi /2,pi /3,pi /4,pi /6
+If the two angle on the base of a triangle are left( 221/2 right)^o and left( 1121/2 right)^o| then the ratio of the height of the triangle to the length of the base is               MP PET 1993; Pb CET 2002,1 : 2,2 : 1,2 : 3,1: 1
+If a|b are different values of x satisfying acos x+bsin x = c| then tan text left( alpha +beta /2 right) =  EAMCET 1986; Orissa JEE 2003,a+b,a-b,b/a,a/b
+In triangle ABCif cos A/a = cos B/b = cos C/c| then the triangle is                                   Karnataka 1991; Pb. CET 1989,Right angled,Obtuse angled,Equilateral,Isosceles
+If the perpendicular AD divides the base of the triangle ABC such that BD| CD and AD are in the ratio 2| 3 and 6| then angle A is equal to MP PET 1993,pi /2,pi /3,pi /4,pi /6
+In a triangle| the length of the two larger sides are 10 cm and 9 cm respectively. If the angles of the triangle are in A.P.| then the length of the third side in cm can be MP PET 1990| 2001; IIT 1987; DCE 2001,5-sqrt6only,5+sqrt6only,5-sqrt6or 5+sqrt6,Neither5-sqrt6nor 5+sqrt6
+In triangle ABC| if angle A = 45^circ | angle B = 75^circ | then a+csqrt2  =    IIT 1988,0,1,b,2b
+In Delta ABC|ifsin A:sin C = sin (A-B):sin (B-C)| then,a| b| care in A.P.,a^2| b^2| c^2are in A.P.,a^2| b^2| c^2are in G. P.,None of these
+If in a triangle ABC| sin A/4 = sin B/5 = sin C/6| then the value of cos A+cos B+cos Cis equal to,69/48,96/48,48/69,None of these
+In a Delta ABC|if a = 2x|b = 2yand angle C = 120^circ | then the area of the triangle is MP PET 1986| 2002,xy,xysqrt3,3xy,2xy
+If the sides of a Delta be(x^2+x+1)||(2x+1) and (x^2-1)|then the greatest angle is   EAMCET 1987; Kerala (Engg.) 2001,105^o,120^o,135^o,None
+In a Delta ABC|if 3a = b+c|then the value of cot B/2cot C/2 is Pb. CET 2003; Roorkee 1986; MP PET 1990| 97| 98| 2003; EAMCET 2003; Orissa JEE 2005,1,2,sqrt3,sqrt2
+In Delta ABC|if 8R^2 = a^2+b^2+c^2|then the triangle is,Right angled,Equilateral,Acute angled,Obtuse angled
+In a Delta ABC|let angle C = pi /2.If rand Rare in radius and the circum-radius respectively of the triangle| then 2(r+R) is equal to                           IIT Screening 2000; AIEEE 2005,a+b,b+c,c+a,a+b+c
+A tower is situated on horizontal plane. From two points| the line joining three points passes through the base and which are aand bdistance from the base. The angle of elevation of the top are alpha and 90^circ -alpha and theta is that angle which two points joining the line makes at the top| the height of tower will be UPSEAT 1999,a+b/a-b,a-b/a+b,sqrtab,(ab)^1/3
+ABC is triangular park with AB  =  AC  =  100 m. A clock tower is situated at the mid-point of BC. The angles of elevation of the top of the tower atAandBare cot ^-13.2 and textcose/textc^-12.6respectively. The height of the tower isEAMCET 1992,50 m,25 m,40 m,None of these
+From the bottom of a pole of height h| the angle of elevation of the top of a tower is alpha and the pole subtends angle beta at the top of the tower. The height of the tower is  Roorkee 1988,htan (alpha -beta )/tan (alpha -beta )-tan alpha,hcot (alpha -beta )/cot (alpha -beta )-cot alpha,cot (alpha -beta )/cot (alpha -beta )-cot alpha,None of these
+A person observes the angle of elevation of a building as 30?. The person proceeds towards the building with a speed of 25(sqrt3-1)m/hour.After 2|hours| he observes the angle of elevation as 45?. The height of the building (in meter) is  UPSEAT 2003,100,50,50(sqrt3+1),50(sqrt3-1)
+A man from the top of a 100 meters high tower sees a car moving towards the tower at an angle of depression of 30 ?. After some time| the angle of depression becomes60^o. The distance (in meters) travelled by the car during the time is IIT Screening 2001,100sqrt3,200sqrt3/3,100sqrt3/3,200sqrt3
+The angular depressions of the top and the foot of a chimney as seen from the top of a second chimney| which is 150 m high and standing on the same level as the first are theta  and varphi  respectively| then the distance between their tops when tan theta  = 4/3and tan varphi  = 5/2| is Pb. CET 2004; IIT 1965,150/sqrt3metres,100sqrt3metres,150metres,100metres
+The value of nin Z for which the function f(x) = sin nx/sin (x/n) has 4pi  as its period| is,2,3,4,5
+If the angles of a quadrilateral are in A.P. whose common difference is10^o| then the angles of the quadrilateral are,65^o||85^o||95^o||105^o,75^o||85^o||95^o||105^o,65^o||75^o||85^o||95^o,65^o||95^o||105^o||115^o
+If the sum of first n terms of an A.P. be equal to the sum of its first m terms| (mne n)| then the sum of its first (m+n) terms will be MP PET 1984,0,n,m,m+n
+If p| q| r are in A.P. and are positive| the roots of the quadratic equation px^2+qx+r = 0 are all real for IIT 1995,left| |r/p-7 right| ge 4sqrt3,left| p/r-7 right| <4sqrt3,All pand r,No p and r
+The sums of n terms of three A.P.'s whose first term is 1 and common differences are 1| 2| 3 are S_1| S_2| S_3 respectively. The true relation is,S_1+S_3 = S_2,S_1+S_3 = 2S_2,S_1+S_2 = 2S_3,S_1+S_2 = S_3
+The value of x satisfyinglog _ax+log _sqrtax+log _3sqrtax+.........log _asqrtax = a+1/2 will be,x = a,x = a^a,x = a^-1/a,x = a^1/a
+Jairam purchased a house in Rs. 15000 and paid Rs. 5000 at once. Rest money he promised to pay in annual installment of Rs. 1000 with 10% per annum interest. How much money is to be paid by Jairam UPSEAT 1999,Rs. 21555,Rs. 20475,Rs. 20500,Rs. 20700
+Let S_1| S_2|.......be squares such that for each nge 1| the length of a side of S_n equals the length of a diagonal of S_n+1. If the length of a side of S_1is10cm| then for which of the following values of n is the area of S_n less then 1 sq cm IIT 1999,7,8,9,10
+If S_1| S_2| S_3|...........S_m are the sums of n terms of m A.P.'s whose first terms are 1| 2| 3| ...............|m and common differences are 1| 3| 5| ...........2m-1 respectively| then S_1+S_2+S_3+.......S_m =,1/2mn(mn+1),mn(m+1),1/4mn(mn-1),None of the above
+If a_1| a_2||a_3|......a_24 are in arithmetic progression and a_1+a_5+a_10+a_15+a_20+a_24 = 225| then a_1+a_2+a_3+........+a_23+a_24 =  MP PET 1999; AMU 1997,909,75,750,900
+If the roots of the equation x^3-12x^2+39x-28 = 0 are in A.P.| then their common difference will be UPSEAT 1994| 99| 2001; RPET 2001,pm 1,pm 2,pm 3,pm 4
+If the first term of a G.P. a_1| a_2| a_3|..........is unity such that 4a_2+5a_3 is least| then the common ratio of G.P. is,-2/5,-3/5,2/5,None of these
+If the sum of the nterms of G.P. is S product is P and sum of their inverse is R| than P^2 is equal to  IIT 1966; Roorkee 1981,R/S,S/R,left( R/S right)^n,left( S/R right)^n
+Let n(>1) be a positive integer| then the largest integer m such that (n^m+1) divides (1+n+n^2+.......+n^127)| is IIT 1995,32,63,64,127
+A G.P. consists of an even number of terms. If the sum of all the terms is 5 times the sum of the terms occupying odd places| then the common ratio will be equal to,2,3,4,5
+If f(x) is a function satisfying f(x+y) = f(x)f(y) for all x| yin N such that f(1) = 3 and sumlimits_x = 1^n/f(x) = 120. Then the value of n is IIT 1992,4,5,6,None of these
+If n geometric means between a and bbe G_1| G_2| .....G_n  and a geometric mean be G| then the true relation is,G_1.G_2........G_n = G,G_1.G_2........G_n = G^1/n,G_1.G_2........G_n = G^n,G_1.G_2........G_n = G^2/n
+alpha | beta  are the roots of the equation x^2-3x+a = 0 and gamma | delta  are the roots of the equation x^2-12x+b = 0. If alpha | beta | gamma | delta  form an increasing G.P.| then (a| b) =   DCE 2000,(3| 12),(12| 3),(2| 32),(4| 16)
+2.oversetbullet ||bullet ||bullet /mathop357| =  IIT 1983; RPET 1995,2355/1001,2370/997,2355/999,None of these
+If 1+cos alpha +cos ^2alpha +.......|infty  = 2-sqrt2| then alpha | (0<alpha <pi ) is    Roorkee 2000; AMU 2005,pi /8,pi /6,pi /4,3pi /4
+The first term of an infinite geometric progression is x and its sum is 5. Then IIT Screening 2004,0le xle 10,0<x<10,-10<x<0,x>10
+If a| b| c are in H.P.| then the value of left( 1/b+1/c-1/a right)|left( 1/c+1/a-1/b right)| is  MP PET 1998; Pb. CET 2000,2/bc+1/b^2,3/c^2+2/ca,3/b^2-2/ab,None of these
+If m is a root of the given equation (1-ab)x^2- (a^2+b^2)x - (1+ab) = 0 and m harmonic means are inserted between a and b| then the difference between the last and the first of the means equals,b-a,ab(b-a),a(b-a),ab(a-b)
+A boy goes to school from his home at a speed of x km/hour and comes back at a speed of y km/hour| then the average speed is given by  DCE 2002,A.M.,G.M.,H.M.,None of these
+If  a| b| c| d be in H.P.| then,a^2+c^2>b^2+d^2,a^2+d^2>b^2+c^2,ac+bd>b^2+c^2,ac+bd>b^2+d^2
+If a| b| c are the positive integers| then (a+b)(b+c)(c+a)is DCE 2000,<8abc,>8abc,#ERROR!,None of these
+In a G.P. the sum of three numbers is 14| if 1 is added to first two numbers and subtracted from third number| the series becomes A.P.| then the greatest number is  Roorkee 1973,8,4,24,16
+If a| b| c are in G.P. and log a-log 2b| log 2b-log 3cand log 3c-log a are in A.P.| then a| b| c are the length of the sides of a triangle which is,Acute angled,Obtuse angled,Right angled,Equilateral
+If A_1| A_2;G_1| G_2 and H_1| H_2 be AM's| GM's and HM's between two quantities| then the value of G_1/G_2/H_1/H_2 is    Roorkee 1983; AMU 2000,A_1+A_2/H_1+H_2,A_1-A_2/H_1+H_2,A_1+A_2/H_1-H_2,A_1-A_2/H_1-H_2
+The harmonic mean of two numbers is 4 and the arithmetic and geometric means satisfy the relation 2A+G^2 = 27| the numbers are                   MNR 1987; UPSEAT 1999| 2000,6||3,5| 4,5| -2.5,-3| 1
+If the A.M. of two numbers is greater than G.M. of the numbers by 2 and the ratio of the numbers is 4:1| then the numbers are RPET 1988,4| 1,12| 3,16| 4,None of these
+If the A.M. and G.M. of roots of a quadratic equations are 8 and 5 respectively| then the quadratic equation will be Pb. CET 1990,x^2-16x-25 = 0,x^2-8x+5 = 0,x^2-16x+25 = 0,x^2+16x-25 = 0
+The A.M.| H.M. and G.M. between two numbers are 144/15| 15 and 12| but not necessarily in this order. Then H.M.| G.M. and A.M. respectively are,15| 12| 144/15,144/15| 12| 15,12| 15| 144/15,144/15| 15| 12
+If a be the arithmetic mean of b and c and G_1| G_2 be the two geometric means between them| then G_1^3+G_2^3 =,G_1/G_2a,2G_1/G_2a,3G_1/G_2a,None of these
+Three numbers form a G.P. If the 3^rd term is decreased by 64| then the three numbers thus obtained will constitute an A.P. If the second term of this A.P. is decreased by 8| a G.P. will be formed again| then the numbers will be,4| 20| 36,4| 12| 36,4| 20| 100,None of the above
+If x>1| y>1|z>1 are in G.P.| then 1/1+textIn|x| 1/1+textIn|y|  1/1+textIn|z  are in       IIT 1998; UPSEAT 2001,A.P.,H.P.,G.P.,None of these
+a||g||h are arithmetic mean| geometric mean and harmonic mean between two positive numbers x and y respectively. Then identify the correct statement among the following Karnataka CET 2001,h is the harmonic mean between a and g,No such relation exists between a| g and h,g is the geometric mean between a and h,A is the arithmetic mean between g and h
+2^sin theta +2^cos theta  is greater than AMU 2000,1/2,sqrt2,2^1/sqrt2,2^left( 1-|1/sqrt2 right)
+If a||b||c||d are positive real numbers such that a+b+c+d  = 2| then M = (a+b)(c+d) satisfies the relation IIT Screening 2000,0<Mle 1,1le Mle 2,2le Mle 3,3le Mle 4
+Suppose a||b||c are in A.P. and a^2|b^2|c^2 are in G.P. If       a < b < c  and a+b+c = 3/2| then the value of a is IIT Screening 2002,1/2sqrt2,1/2sqrt3,1/2-1/sqrt3,1/2-1/sqrt2
+n^th term of the series1+4/5+7/5^2+10/5^3+........will be,3n+1/5^n-1,3n-1/5^n,3n-2/5^n-1,3n+2/5^n-1
+The sum of the series 1/1+1^2+1^4+2/1+2^2+2^4+3/1+3^2+3^4+......... to n terms is,n(n^2+1)/n^2+n+1,n(n+1)/2(n^2+n+1),n(n^2-1)/2(n^2+n+1),None of these
+For any odd integer nge 1|n^3-(n-1)^3+...........+(-1)^n-1/1^3 =  IIT 1996,1/2/(n-1)^2(2n-1),1/4/(n-1)^2(2n-1),1/2/(n+1)^2(2n-1),1/4/(n+1)^2(2n-1)
+The sum of n terms of the series 1/1+sqrt3+1/sqrt3+sqrt5+1/sqrt5+sqrt7+......... is   UPSEAT 2002,sqrt2n+1,1/2sqrt2n+1,sqrt2n+1-1,1/2(sqrt2n+1-1)
+n^th term of the series1^3/1+1^3+2^3/1+3+1^3+2^3+3^3/1+3+5+...... will be Pb. CET 2000,n^2+2n+1,n^2+2n+1/8,n^2+2n+1/4,n^2-2n+1/4
+The sum of the series 1/sqrt1+sqrt2+1/sqrt2+sqrt3+1/sqrt3+sqrt4+...+1/sqrtn^2-1+sqrtn^2equals                                          AMU 2002,(2n+1)/sqrtn,sqrtn+1/sqrtn+sqrtn-1,(n+sqrtn^2-1)/2sqrtn,n-1
+The value of (sqrt2+1)^6+(sqrt2-1)^6 will be RPET 1997,-198,198,99,-99
+If (1+ax)^n = 1+8x+24x^2+....|then the value of a and n is IIT 1983; Pb. CET 1994| 99,2| 4,2| 3,3| 6,1| 2
+The coefficient of x^5 in the expansion of (1+x^2)^5/(1+x)^4 is            EAMCET 1996; UPSEAT 2001; Pb. CET 2002,30,60,40,None of these
+If (1-3x)^1/2+(1-x)^5/3/sqrt4-xis approximately equal to a+bxfor small values of x|  then (a|b) =,left( 1|35/24 right),left( 1|-35/24 right),left( 2|35/12 right),left( 2|-35/12 right)
+The value of x in the expression x+x^log _10^(x)^5| if the third term in the expansion is 10|00|000 Roorkee 1992,10,11,12,None of these
+If the coefficient of the middle term in the expansion of (1+x)^2n+2is p and the coefficients of middle terms in the expansion of (1+x)^2n+1 are q and r| then,p+q = r,p+r = q,p = q+r,p+q+r = 0
+In the polynomial (x-1)(x-2)(x-3).............(x-100)|the coefficient of x^99 is AMU 2002,5050,-5050,100,99
+The coefficient of x^100 in the expansion of  sumlimits_j = 0^200/(1+x)^j is  UPSEAT 2004,left( beginalign & 200 & 100 endalign right),left( beginalign & 201 & 102 endalign right),left( beginalign & 200 & 101 endalign right),left( beginalign & 201 & 100 endalign right)
+If the coefficient of x^7 in left( ax^2+1/bx right)^11 is equal to the coefficient of x^-7in left( ax-1/bx^2 right)^11| then ab  =  MP PET 1999; AMU 2001; Pb. CET 2002; AIEEE 2005,1,1/2,2,3
+If the coefficient of x in the expansion of left( x^2+k/x right)^5 is 270| then k  =  EAMCET 2002,1,2,3,4
+The coefficients of three successive terms in the expansion of (1+x)^n are 165| 330 and 462 respectively| then the value of n will be UPSEAT 1999,11,10,12,8
+If the coefficient of (2r+4)^th and (r-2)^thterms in the expansion of (1+x)^18are equal| then r =  MP PET 1997; Pb. CET 2001,12,10,8,6
+The middle term in the expansion of (1+x)^2n is  Pb. CET 1998,1.3.5....(5n-1)/n!/x^n,2.4.6....2n/n!/x^2n+1,1.3.5....(2n-1)/n!/x^n,1.3.5....(2n-1)/n!/2^n/x^n
